@@ -1,4 +1,4 @@
-# Sample app to demonstrate the use of docker
+# Demodocker is a Sample App to demonstrate the use of docker
 
 Exposes web server on port `8080` as per `./app.js`
 
